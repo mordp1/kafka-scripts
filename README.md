@@ -1,2 +1,2 @@
 # kafka-scripts
-Just a basic scripts 
+Just basic scripts 
