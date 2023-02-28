@@ -1,4 +1,5 @@
 #/bin/bash
+#Like a menu to delete
 
 KFK="BROKER:9092"
 KFK_HOME=/opt/kafka

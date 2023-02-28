@@ -1,4 +1,5 @@
 #/bin/bash
+## Like a menu to create topic
 
 read -p "Enter Topic Name: " topic
 read -p "Enter retention.ms: " ret
